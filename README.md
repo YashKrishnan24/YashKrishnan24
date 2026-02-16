@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 💫 About Me:
+ 💫 About Me:
 🔭 I’m currently working on<br>Building full-stack web applications while strengthening my backend skills using Python and Java.<br><br>👯 I’m looking to collaborate on<br>Projects that combine web development, problem solving, and scalable backend systems.<br><br>🤝 I’m looking for help with<br>Advanced Java concepts, Python-based backend frameworks, and real-world DevOps implementations.<br><br>🌱 I’m currently learning<br>DevOps practices, cloud deployment, data structures & algorithms, and writing efficient code in Python and Java.<br><br>💬 Ask me about<br>Full-stack basics, Python & Java fundamentals, problem-solving approaches, or balancing tech with cricket as a student athlete.<br><br>⚡ Fun fact<br>I treat coding challenges like cricket — analyze the pitch (problem), plan the strategy, then execute with precision.
 
 
