@@ -1,26 +1,26 @@
 ## Hi there 👋
 
-💫 About Me:  
-🔭 I’m currently working on  
+ About Me:  
+I’m currently working on  
 Building full-stack web applications while strengthening my backend skills using Python and Java.  
 
-👯 I’m looking to collaborate on  
+I’m looking to collaborate on  
 Projects that combine web development, problem solving, and scalable backend systems.  
 
-🤝 I’m looking for help with  
+I’m looking for help with  
 Advanced Java concepts, Python-based backend frameworks, and real-world DevOps implementations.  
 
-🌱 I’m currently learning  
+I’m currently learning  
 DevOps practices, cloud deployment, data structures & algorithms, and writing efficient code in Python and Java.  
 
-💬 Ask me about  
+Ask me about  
 Full-stack basics, Python & Java fundamentals, problem-solving approaches, or balancing tech with cricket as a student athlete.  
 
-⚡ Fun fact  
+Fun fact  
 I treat coding challenges like cricket — analyze the pitch (problem), plan the strategy, then execute with precision.  
 
 
-## 🌐 Socials:
+ Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beastisfire01@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Yash_Krishnan/)
 
