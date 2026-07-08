@@ -108,11 +108,9 @@ Worked under the School Hygiene Education Program (SHEP), contributing to projec
 
 ## 🐍 Contribution Snake
 
-> Enable the Platane/snk GitHub Action to generate your contribution snake.
-
-```text
-https://github.com/Platane/snk
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YashKrishnan24/YashKrishnan24/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
